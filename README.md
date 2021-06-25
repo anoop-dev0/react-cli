@@ -38,6 +38,6 @@
     
 * Generate multiple files
     ```sh
-    react --jsx src/user --jsx src/employee src/student
+    react --jsx src/user --jsx src/employee --jsx src/student
     ```
 
